@@ -10,7 +10,7 @@ import {
 
 const Header = () => {
   return (
-    <header className="sticky top-0 z-59 grid grid-cols-3 bg-white shadow-md py-5 px-5 md:px-10">
+    <header className="sticky top-0 z-100 grid grid-cols-3 bg-white shadow-md py-5 px-5 md:px-10">
       <div className="relative flex items-center h-10 cursor-pointer my-auto">
         <Image
           src="https://i.imgur.com/3f9rhQR.png"
